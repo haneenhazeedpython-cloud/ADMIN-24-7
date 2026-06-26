@@ -8,7 +8,7 @@
   "server": {
     "ip": "lifepeacesmp.aternos.me",
     "port": 44209,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "create team by /team",
+        "teleport using /simpletpa!",
+        "build whatever u want!"
       ]
     },
     "chat-log": true,
